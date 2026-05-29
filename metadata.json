@@ -1,0 +1,6 @@
+{
+  "name": "VIBE Barbershop",
+  "description": "High-end, professional barbershop in Batumi offering precision fades, beard styling, and a premium grooming experience with master barbers Vlad, Ilya, and Katerina.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
